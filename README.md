@@ -36,8 +36,11 @@ An eldritch event shattered the established order, collapsing the Solarian Empir
 
 ### `/Cosmology & Global Mechanics`
 The core documentation for the setting's laws, deities, and cultures.
-*   **`_Cosmology_Reference.md`**: The definitive guide to the universe's origin and mechanics.
-*   **`01_Light_Bronwyn`** - `09_Races`: Detailed folders for each realm's theology, institutions, and biological adaptations.
+*   **`azurea_cosmology.md`**: The definitive guide to the universe's origin (Tripartite), the Passing, and the Realm Mechanics.
+*   **`azurea_outer_threats.md`**: Details on Threats Beyond the Hawthorne (Eldritch, Ivy).
+*   **`01_Light_Bronwyn`** - `07_Land_Alys`: Detailed folders for each primary tradition.
+*   **`08_Abyss_Katiari`**: The Hidden Realm of Forgetting and Hope.
+*   **`09_Emergent_Realms`**: Accidental metaphysics (Blood Field, Null Field).
 
 ---
 *Note: This repository is a living document. The "truth" of Azurea is often a matter of perspective, as belief shapes reality.*
