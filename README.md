@@ -42,5 +42,16 @@ The core documentation for the setting's laws, deities, and cultures.
 *   **`08_Abyss_Katiari`**: The Hidden Realm of Forgetting and Hope.
 *   **`09_Emergent_Realms`**: Accidental metaphysics (Blood Field, Null Field).
 
+### `/Geography`
+The complete atlas of the known world, post-Passing.
+*   **`azurea_geography_reference.md`**: High-level overview of the Empire, oceans, and global geography.
+*   **`azurea_regional_structure.md`**: The organizational hierarchy of the 5 Provinces and 20 Sub-Regions.
+*   **`/regions`**: Detailed development files for all 20 sub-regions, including:
+    *   **Heartland (The Crown)**: Capital regions like *Crown Lands* and *Lawlands*.
+    *   **North (The Anvil)**: *High Marches*, *Fjordlands*, *Pinelands*.
+    *   **South (The Wyrm)**: *Dragonlands*, *Delta Lands*, *Jewel Hills*.
+    *   **West (The Branch)**: *The Kingswood*, *Western Shore*, *Old Downs*.
+    *   **East (The Coin)**: *Golden Coast*, *Elvish Pale*, *Island Reach*.
+
 ---
 *Note: This repository is a living document. The "truth" of Azurea is often a matter of perspective, as belief shapes reality.*
