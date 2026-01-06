@@ -53,5 +53,9 @@ The complete atlas of the known world, post-Passing.
     *   **West (The Branch)**: *The Kingswood*, *Western Shore*, *Old Downs*.
     *   **East (The Coin)**: *Golden Coast*, *Elvish Pale*, *Island Reach*.
 
+### `/Factions`
+A unified index of all powers operating in Azurea—religious, political, economic, and cultural.
+*   **`azurea_factions_overview.md`**: Master index with 1-paragraph summaries and cross-references to detailed sources.
+
 ---
 *Note: This repository is a living document. The "truth" of Azurea is often a matter of perspective, as belief shapes reality.*
